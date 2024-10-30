@@ -1,2 +1,2 @@
-# Komorebi
-Komorebi + yasb
+
+Komorebi + yasb config
