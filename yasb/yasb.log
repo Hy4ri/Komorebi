@@ -1,0 +1,921 @@
+2024-10-30 15:23:36 INFO log.py:21: Yasb
+2024-10-30 15:23:36 INFO config.py:59: Created default config file at C:\Users\m57\.config\yasb\config.yaml
+2024-10-30 15:23:37 INFO config.py:73: Created default stylesheet at C:\Users\m57\.config\yasb\styles.css
+2024-10-30 15:23:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:23:41 INFO weather.py:156: Fetched new weather data at 2024-10-30 15:23:41.935243
+2024-10-30 15:23:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:23:43 INFO event_listener.py:52: Created named pipe yasb-cd81d229-96b9-11ef-9b76-010101010000
+2024-10-30 15:23:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-cd81d229-96b9-11ef-9b76-010101010000
+2024-10-30 15:23:43 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:23:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:23:43 DEBUG _windows.py:192: Thread started
+2024-10-30 15:23:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-cd81d229-96b9-11ef-9b76-010101010000
+2024-10-30 15:31:29 INFO log.py:21: Yasb
+2024-10-30 15:31:30 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:31:30 INFO weather.py:156: Fetched new weather data at 2024-10-30 15:31:30.675587
+2024-10-30 15:31:30 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:31:31 INFO event_listener.py:52: Created named pipe yasb-e4aa4f22-96ba-11ef-bdb3-010101010000
+2024-10-30 15:31:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e4aa4f22-96ba-11ef-bdb3-010101010000
+2024-10-30 15:31:31 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:31:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:31:31 DEBUG _windows.py:192: Thread started
+2024-10-30 15:31:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e4aa4f22-96ba-11ef-bdb3-010101010000
+2024-10-30 15:31:40 INFO log.py:21: Yasb
+2024-10-30 15:31:40 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:31:41 INFO weather.py:156: Fetched new weather data at 2024-10-30 15:31:41.402270
+2024-10-30 15:31:41 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:31:42 INFO event_listener.py:52: Created named pipe yasb-eb077901-96ba-11ef-8dd2-010101010000
+2024-10-30 15:31:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-eb077901-96ba-11ef-8dd2-010101010000
+2024-10-30 15:31:42 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:31:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:31:42 DEBUG _windows.py:192: Thread started
+2024-10-30 15:31:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-eb077901-96ba-11ef-8dd2-010101010000
+2024-10-30 15:31:52 INFO log.py:21: Yasb
+2024-10-30 15:31:52 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:31:53 INFO weather.py:156: Fetched new weather data at 2024-10-30 15:31:53.232903
+2024-10-30 15:31:53 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:31:54 INFO event_listener.py:52: Created named pipe yasb-f214aaec-96ba-11ef-9fdb-010101010000
+2024-10-30 15:31:54 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f214aaec-96ba-11ef-9fdb-010101010000
+2024-10-30 15:31:54 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:31:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:31:54 DEBUG _windows.py:192: Thread started
+2024-10-30 15:31:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f214aaec-96ba-11ef-9fdb-010101010000
+2024-10-30 15:32:37 INFO log.py:21: Yasb
+2024-10-30 15:32:38 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:32:38 INFO weather.py:156: Fetched new weather data at 2024-10-30 15:32:38.740130
+2024-10-30 15:32:38 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:32:39 INFO event_listener.py:52: Created named pipe yasb-0d36f6ff-96bb-11ef-ab48-010101010000
+2024-10-30 15:32:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0d36f6ff-96bb-11ef-ab48-010101010000
+2024-10-30 15:32:39 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:32:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:32:39 DEBUG _windows.py:192: Thread started
+2024-10-30 15:32:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0d36f6ff-96bb-11ef-ab48-010101010000
+2024-10-30 15:33:42 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 48, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 56, column 11
+2024-10-30 15:33:42 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 48, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 56, column 11
+2024-10-30 15:34:30 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:30 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:36 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:36 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:40 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:40 ERROR config.py:99: The file 'C:\Users\m57\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\m57\.config\yasb\config.yaml", line 49, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\m57\.config\yasb\config.yaml", line 54, column 11
+2024-10-30 15:34:48 INFO log.py:21: Yasb
+2024-10-30 15:34:49 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:34:49 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:34:49 INFO event_listener.py:52: Created named pipe yasb-5abb3d3d-96bb-11ef-8084-010101010000
+2024-10-30 15:34:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5abb3d3d-96bb-11ef-8084-010101010000
+2024-10-30 15:34:49 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:34:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:34:49 DEBUG _windows.py:192: Thread started
+2024-10-30 15:34:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5abb3d3d-96bb-11ef-8084-010101010000
+2024-10-30 15:35:25 INFO log.py:21: Yasb
+2024-10-30 15:35:25 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:35:26 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:35:26 INFO event_listener.py:52: Created named pipe yasb-70c64b0f-96bb-11ef-ad73-010101010000
+2024-10-30 15:35:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-70c64b0f-96bb-11ef-ad73-010101010000
+2024-10-30 15:35:26 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:35:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:35:26 DEBUG _windows.py:192: Thread started
+2024-10-30 15:35:26 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-70c64b0f-96bb-11ef-ad73-010101010000
+2024-10-30 15:36:03 INFO log.py:21: Yasb
+2024-10-30 15:36:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:36:04 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:36:05 INFO event_listener.py:52: Created named pipe yasb-87ca065f-96bb-11ef-85cd-010101010000
+2024-10-30 15:36:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-87ca065f-96bb-11ef-85cd-010101010000
+2024-10-30 15:36:05 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:36:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:36:05 DEBUG _windows.py:192: Thread started
+2024-10-30 15:36:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-87ca065f-96bb-11ef-85cd-010101010000
+2024-10-30 15:36:18 INFO log.py:21: Yasb
+2024-10-30 15:36:18 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:36:19 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:36:19 INFO event_listener.py:52: Created named pipe yasb-9058c758-96bb-11ef-9489-010101010000
+2024-10-30 15:36:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9058c758-96bb-11ef-9489-010101010000
+2024-10-30 15:36:19 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:36:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:36:19 DEBUG _windows.py:192: Thread started
+2024-10-30 15:36:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9058c758-96bb-11ef-9489-010101010000
+2024-10-30 15:36:43 INFO log.py:21: Yasb
+2024-10-30 15:36:44 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:36:44 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:36:45 INFO event_listener.py:52: Created named pipe yasb-9f9c7e78-96bb-11ef-aa29-010101010000
+2024-10-30 15:36:45 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9f9c7e78-96bb-11ef-aa29-010101010000
+2024-10-30 15:36:45 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:36:45 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:36:45 DEBUG _windows.py:192: Thread started
+2024-10-30 15:36:45 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9f9c7e78-96bb-11ef-aa29-010101010000
+2024-10-30 15:36:53 INFO log.py:21: Yasb
+2024-10-30 15:36:54 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:36:54 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:36:54 INFO event_listener.py:52: Created named pipe yasb-a540ee2a-96bb-11ef-a23b-010101010000
+2024-10-30 15:36:54 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a540ee2a-96bb-11ef-a23b-010101010000
+2024-10-30 15:36:54 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:36:54 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:36:54 DEBUG _windows.py:192: Thread started
+2024-10-30 15:36:54 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a540ee2a-96bb-11ef-a23b-010101010000
+2024-10-30 15:37:06 INFO log.py:21: Yasb
+2024-10-30 15:37:06 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:37:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:37:07 INFO event_listener.py:52: Created named pipe yasb-acecec08-96bb-11ef-a968-010101010000
+2024-10-30 15:37:07 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-acecec08-96bb-11ef-a968-010101010000
+2024-10-30 15:37:07 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:37:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:37:07 DEBUG _windows.py:192: Thread started
+2024-10-30 15:37:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-acecec08-96bb-11ef-a968-010101010000
+2024-10-30 15:37:35 INFO log.py:21: Yasb
+2024-10-30 15:37:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:37:36 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:37:37 INFO event_listener.py:52: Created named pipe yasb-be99fede-96bb-11ef-b24e-010101010000
+2024-10-30 15:37:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-be99fede-96bb-11ef-b24e-010101010000
+2024-10-30 15:37:37 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:37:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:37:37 DEBUG _windows.py:192: Thread started
+2024-10-30 15:37:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-be99fede-96bb-11ef-b24e-010101010000
+2024-10-30 15:38:30 INFO log.py:21: Yasb
+2024-10-30 15:38:31 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:38:31 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:38:32 INFO event_listener.py:52: Created named pipe yasb-df82dd10-96bb-11ef-934a-010101010000
+2024-10-30 15:38:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-df82dd10-96bb-11ef-934a-010101010000
+2024-10-30 15:38:32 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:38:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:38:32 DEBUG _windows.py:192: Thread started
+2024-10-30 15:38:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-df82dd10-96bb-11ef-934a-010101010000
+2024-10-30 15:38:48 INFO log.py:21: Yasb
+2024-10-30 15:38:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:38:48 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:38:49 INFO event_listener.py:52: Created named pipe yasb-e9bddeb8-96bb-11ef-b456-010101010000
+2024-10-30 15:38:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e9bddeb8-96bb-11ef-b456-010101010000
+2024-10-30 15:38:49 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:38:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:38:49 DEBUG _windows.py:192: Thread started
+2024-10-30 15:38:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e9bddeb8-96bb-11ef-b456-010101010000
+2024-10-30 15:38:55 INFO log.py:21: Yasb
+2024-10-30 15:38:56 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:38:56 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:38:57 INFO event_listener.py:52: Created named pipe yasb-ee2c8f2f-96bb-11ef-9e13-010101010000
+2024-10-30 15:38:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ee2c8f2f-96bb-11ef-9e13-010101010000
+2024-10-30 15:38:57 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:38:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:38:57 DEBUG _windows.py:192: Thread started
+2024-10-30 15:38:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ee2c8f2f-96bb-11ef-9e13-010101010000
+2024-10-30 15:39:04 INFO log.py:21: Yasb
+2024-10-30 15:39:04 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:39:05 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:39:05 INFO event_listener.py:52: Created named pipe yasb-f3508131-96bb-11ef-bdca-010101010000
+2024-10-30 15:39:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f3508131-96bb-11ef-bdca-010101010000
+2024-10-30 15:39:05 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:39:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:39:05 DEBUG _windows.py:192: Thread started
+2024-10-30 15:39:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f3508131-96bb-11ef-bdca-010101010000
+2024-10-30 15:39:11 INFO log.py:21: Yasb
+2024-10-30 15:39:12 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:39:12 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:39:13 INFO event_listener.py:52: Created named pipe yasb-f7e59182-96bb-11ef-9c96-010101010000
+2024-10-30 15:39:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f7e59182-96bb-11ef-9c96-010101010000
+2024-10-30 15:39:13 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:39:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:39:13 DEBUG _windows.py:192: Thread started
+2024-10-30 15:39:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f7e59182-96bb-11ef-9c96-010101010000
+2024-10-30 15:39:19 INFO log.py:21: Yasb
+2024-10-30 15:39:20 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:39:20 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:39:20 INFO event_listener.py:52: Created named pipe yasb-fc519f4a-96bb-11ef-9a86-010101010000
+2024-10-30 15:39:20 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-fc519f4a-96bb-11ef-9a86-010101010000
+2024-10-30 15:39:20 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:39:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:39:20 DEBUG _windows.py:192: Thread started
+2024-10-30 15:39:20 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-fc519f4a-96bb-11ef-9a86-010101010000
+2024-10-30 15:39:40 INFO log.py:21: Yasb
+2024-10-30 15:39:40 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:39:40 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:39:41 INFO event_listener.py:52: Created named pipe yasb-08a55139-96bc-11ef-b51b-010101010000
+2024-10-30 15:39:41 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-08a55139-96bc-11ef-b51b-010101010000
+2024-10-30 15:39:41 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:39:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:39:41 DEBUG _windows.py:192: Thread started
+2024-10-30 15:39:41 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-08a55139-96bc-11ef-b51b-010101010000
+2024-10-30 15:40:35 INFO log.py:21: Yasb
+2024-10-30 15:40:35 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:40:35 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:40:36 INFO event_listener.py:52: Created named pipe yasb-296e2bb9-96bc-11ef-bd8c-010101010000
+2024-10-30 15:40:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-296e2bb9-96bc-11ef-bd8c-010101010000
+2024-10-30 15:40:36 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:40:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:40:36 DEBUG _windows.py:192: Thread started
+2024-10-30 15:40:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-296e2bb9-96bc-11ef-bd8c-010101010000
+2024-10-30 15:41:02 INFO log.py:21: Yasb
+2024-10-30 15:41:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:41:03 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:41:04 INFO event_listener.py:52: Created named pipe yasb-39deec84-96bc-11ef-8a7d-010101010000
+2024-10-30 15:41:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-39deec84-96bc-11ef-8a7d-010101010000
+2024-10-30 15:41:04 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:41:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:41:04 DEBUG _windows.py:192: Thread started
+2024-10-30 15:41:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-39deec84-96bc-11ef-8a7d-010101010000
+2024-10-30 15:42:36 INFO log.py:21: Yasb
+2024-10-30 15:42:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:42:36 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:42:37 INFO event_listener.py:52: Created named pipe yasb-719df400-96bc-11ef-b4b6-010101010000
+2024-10-30 15:42:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-719df400-96bc-11ef-b4b6-010101010000
+2024-10-30 15:42:37 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:42:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:42:37 DEBUG _windows.py:192: Thread started
+2024-10-30 15:42:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-719df400-96bc-11ef-b4b6-010101010000
+2024-10-30 15:46:20 INFO log.py:21: Yasb
+2024-10-30 15:46:20 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:46:20 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:46:21 INFO event_listener.py:52: Created named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:46:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:46:21 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:46:21 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:46:21 DEBUG _windows.py:192: Thread started
+2024-10-30 15:46:21 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:47:16 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-30 15:47:16 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-30 15:47:21 INFO event_listener.py:52: Created named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:47:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:47:21 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-30 15:47:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:48:15 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-30 15:48:15 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-30 15:48:20 INFO event_listener.py:52: Created named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:48:20 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:48:20 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-30 15:48:40 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f7188d20-96bc-11ef-8f42-010101010000
+2024-10-30 15:49:28 INFO log.py:21: Yasb
+2024-10-30 15:49:29 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 15:49:29 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 15:49:30 INFO event_listener.py:52: Created named pipe yasb-679ddb5b-96bd-11ef-a31c-010101010000
+2024-10-30 15:49:30 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-679ddb5b-96bd-11ef-a31c-010101010000
+2024-10-30 15:49:30 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 15:49:30 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 15:49:30 DEBUG _windows.py:192: Thread started
+2024-10-30 15:49:30 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-679ddb5b-96bd-11ef-a31c-010101010000
+2024-10-30 15:49:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:49:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:09 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:50:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:51:12 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:51:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:51:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:51:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:52:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:52:09 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [3:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [4:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [5:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [6:1: @define-color]
+2024-10-30 15:53:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [3:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [4:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [5:1: @define-color]
+2024-10-30 15:53:21 WARNING errorhandler.py:105: CSSStylesheet: Unknown @rule found. [6:1: @define-color]
+2024-10-30 15:53:31 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:54:07 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:54:07 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:43 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:54:43 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:50 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:50 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:54:50 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:59 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:54:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:54:59 WARNING errorhandler.py:105: Property: Unknown Property name. [9:2: font-feature-settings]
+2024-10-30 15:55:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:55:42 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('ATKEYWORD', '@shadow', 19, 14)
+2024-10-30 15:55:42 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('ATKEYWORD', '@shadow', 19, 14)
+2024-10-30 15:56:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:09 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:31 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 20px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:31 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:31 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 20px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:44 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:44 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:50 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:50 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:50 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:56:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:56:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:57:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:57:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:57:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [29:2: box-shadow]
+2024-10-30 15:57:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:57:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [29:2: box-shadow]
+2024-10-30 15:57:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [30:2: box-shadow]
+2024-10-30 15:57:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:57:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:57:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [30:2: box-shadow]
+2024-10-30 15:58:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:58:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:58:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:43 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:58:43 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:58:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:58:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:09 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:43 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:44 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 15:59:56 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 15:59:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:19 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:00:19 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:00:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:00:56 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:00:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:01:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:01:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:01:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:01:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:20 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:20 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:20 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:02:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:02:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:03:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:03:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:03:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:04:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:04:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:04:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:05:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:05:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:05:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:05:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:05:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:05:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:37 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:06:37 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:06:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:06:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:07:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:07:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:56 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:07:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:07:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:07:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:02 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('CHAR', '#', 98, 23)
+2024-10-30 16:08:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:02 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('CHAR', '#', 98, 23)
+2024-10-30 16:08:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:08:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:08:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:08:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:08:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:09:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 800 [97:2: font-size]
+2024-10-30 16:09:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:09:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 800 [97:2: font-size]
+2024-10-30 16:09:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:09:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:09:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:09:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:10:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:10:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:10:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:10:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:10:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:10:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:10:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:10:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:11:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:11:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:11:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:11:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:11:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 20px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 20px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 29px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 29px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:15 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:18 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:18 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:42 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:12:48 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:12:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [19:2: box-shadow]
+2024-10-30 16:12:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [74:5: box-shadow]
+2024-10-30 16:13:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [72:5: box-shadow]
+2024-10-30 16:13:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:13:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [72:5: box-shadow]
+2024-10-30 16:13:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:13:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:13:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:13 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:13:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:13:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:13:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:13:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:13:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:13:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:13:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:13:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:13:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:14:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [16:2: box-shadow]
+2024-10-30 16:14:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [65:5: box-shadow]
+2024-10-30 16:14:02 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [16:2: box-shadow]
+2024-10-30 16:14:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [65:5: box-shadow]
+2024-10-30 16:14:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:14:05 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:14:21 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:21 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:21 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:21 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [16:2: box-shadow]
+2024-10-30 16:14:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:14:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [16:2: box-shadow]
+2024-10-30 16:14:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:14:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:14:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:14:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [18:2: box-shadow]
+2024-10-30 16:14:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:14:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:14:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [18:2: box-shadow]
+2024-10-30 16:14:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:15:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:06 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:50 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:50 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:50 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:15:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:15:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:15:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:15:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:15:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: red 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: red 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:15 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [17:2: box-shadow]
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [23:2: box-shadow]
+2024-10-30 16:16:15 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:16:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:16:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:16:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:17:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [33:5: box-shadow]
+2024-10-30 16:17:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [69:5: box-shadow]
+2024-10-30 16:17:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:17:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [33:5: box-shadow]
+2024-10-30 16:17:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [69:5: box-shadow]
+2024-10-30 16:17:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:17:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:17:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:18:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:18:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:18:04 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:18:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:18:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:18:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:18:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:18:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:18:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [68:5: box-shadow]
+2024-10-30 16:18:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:18:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:18:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:19:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:19:09 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:19:09 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:19:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [61:5: box-shadow]
+2024-10-30 16:19:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:19:26 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [61:5: box-shadow]
+2024-10-30 16:19:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:19:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:19:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:19:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:19:48 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:19:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:19:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:19:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:19:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:20:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:20:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:20:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:20:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:20:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:20:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:21:07 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:21:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:21:07 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:21:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:21:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:21:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [62:5: box-shadow]
+2024-10-30 16:21:44 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:21:44 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:21:47 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:21:47 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:21:52 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:21:52 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+Selector: Unexpected CHAR. [29:14: .]
+2024-10-30 16:22:12 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:22:12 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:22:12 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:22:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:22:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:22:47 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:22:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:22:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:22:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [64:5: box-shadow]
+2024-10-30 16:23:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:23:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:23:30 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [67:5: box-shadow]
+2024-10-30 16:23:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [65:5: box-shadow]
+2024-10-30 16:23:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:23:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [65:5: box-shadow]
+2024-10-30 16:24:24 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:24:24 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:24:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:24:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:24:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:24:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:24:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:16 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:24 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:24 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:25:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Backgrounds and Borders Module Level 3" property: #252525 2px 2px 2px 1px [66:5: box-shadow]
+2024-10-30 16:25:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:06 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:31 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:26:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:27:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:27:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:27:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:27:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:11 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: No match: ('CHAR', ':', 105, 17)
+2024-10-30 16:28:11 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: No match: ('CHAR', ':', 105, 17)
+2024-10-30 16:28:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:55 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:28:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:29:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:29:48 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:30:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:31:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:32:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:32:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:12 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:33:52 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+ColorValue has invalid rgba() parameters: NNN (N=Number, P=Percentage)
+2024-10-30 16:33:52 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+ColorValue has invalid rgba() parameters: NNN (N=Number, P=Percentage)
+2024-10-30 16:33:57 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+COLOR_VALUE: Missing token for production end FUNC ")": ('CHAR', ',', 141, 25)
+2024-10-30 16:33:57 ERROR config.py:116: The file 'C:\Users\m57\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+COLOR_VALUE: Missing token for production end FUNC ")": ('CHAR', ',', 141, 25)
+2024-10-30 16:34:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:34:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:34:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:35:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:35:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:35:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:05 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:12 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:36:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:37:20 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:37:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:37:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:37:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:37:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:38:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:39 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:39:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:40:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:40:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:40:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:41:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:42:05 INFO log.py:21: Yasb
+2024-10-30 16:42:06 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-30 16:42:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-30 16:42:06 INFO event_listener.py:52: Created named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:42:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:42:07 INFO watcher.py:39: Created file watcher for path C:\Users\m57\.config\yasb
+2024-10-30 16:42:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-30 16:42:07 DEBUG _windows.py:192: Thread started
+2024-10-30 16:42:07 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:42:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:42:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:42:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:43:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:43:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:43:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:43:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:44:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:44:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:45:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:45:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:45:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:45:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:45:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:15 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:46:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:47:12 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:47:16 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:48:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:48:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:48:55 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:49:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:49:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:49:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:50:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:50:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:50:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2024-10-30 16:56:56 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-30 16:56:56 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-30 16:57:01 INFO event_listener.py:52: Created named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:57:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:57:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:57:08 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-30 16:57:08 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-30 16:57:13 INFO event_listener.py:52: Created named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:57:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c112de46-96c4-11ef-a5b2-010101010000
+2024-10-30 16:57:13 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-30 16:57:23 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c112de46-96c4-11ef-a5b2-010101010000
